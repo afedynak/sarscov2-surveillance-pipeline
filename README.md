@@ -2,7 +2,7 @@
 
 ## Overview
 
-This pipeline processes SARS-CoV-2 variant data from raw sequencing files to the final report. It leverages various tools and steps for quality control, alignment, variant calling, lineage prediction, and coverage assessment. The pipeline provides valuable insights into viral variants, including VOC (Variants of Concern) detection, mutation frequencies, depth of coverage, and more.
+This pipeline analyzes SARS-CoV-2 NGS sequencing data to detect the relative abundances of variants in wastewater samples. The workflow integrates tools for quality control, read alignment, variant calling, lineage prediction, and genome coverage analysis, providing insights into variants of concern (VOCs), mutation prevalence, and sequencing depth.
 
 DOI: https://doi.org/10.1038/s41598-024-76925-6
 
